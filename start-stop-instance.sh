@@ -10,7 +10,7 @@ Lambda
 Eventbridge
 IAM Role
 
-<img src = "https://github.com/jcconstantino/AWS-Script/blob/main/start-stop-instance.png">
+<img src="https://github.com/jcconstantino/AWS-Script/blob/main/start-stop-instance.png">
 
 1. Go to lambda and create a function for start/stop :
 Copy the code and paste it to the code section in lambda : 
